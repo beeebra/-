@@ -1,0 +1,4 @@
+﻿  Individual_work.cpp
+C:\Users\User\Desktop\in\in\Individual_work.cpp(20,2): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\in\in\Individual_work.cpp(76,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  in.vcxproj -> C:\Users\User\Desktop\in\x64\Debug\in.exe
